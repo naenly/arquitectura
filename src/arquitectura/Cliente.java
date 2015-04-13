@@ -6,6 +6,8 @@
 package arquitectura;
 
 import java.util.Scanner;
+import arquitectura.Factory;
+import arquitectura.Product;
 
 /**
  *
