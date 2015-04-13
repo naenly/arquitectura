@@ -27,7 +27,7 @@ public class Cliente {
        
         Factory fabrica = new Factory ();    
         fabrica.CreaProducto(tipo);
-        Reusable pool=new Reusable();
+       
             
     }
     
